@@ -1,0 +1,16 @@
+Q1: What are some benefits of Laravel over other Php frameworks?
+Q3: Explain Migrations in Laravel
+Q4: What are Laravel events?
+Q5: What is Eloquent Models?
+Q6: What is Service Container?
+Q7: What is the Facade Pattern used for?
+Q8: Does PHP support method overloading?
+Q9: How do you do soft deletes?
+Q10: How do you generate migrations?
+Q11: How do you mock a static facade methods?
+Q14: What are named routes in Laravel?
+Q15: What do you know about query builder in Laravel?
+Q16: What is Closure in Laravel?
+Q18: What is reverse routing in Laravel?
+Q19: What is the benefit of eager loading, when do you use it?
+Q22: Why do we need Traits in Laravel?
