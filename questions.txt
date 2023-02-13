@@ -305,6 +305,7 @@ To achieve concepts of transaction and locking in MongoDB, we can use the nestin
 ## WWhat is Aggregation in MongoDB?
 Aggregations operations process data records and return computed results. Aggregation operations group values from multiple documents together, and can perform a variety of operations on the grouped data to return a single result. MongoDB provides three ways to perform aggregation: the aggregation pipeline, the map-reduce function, and single purpose aggregation methods and commands.
 
+
 ## WWhat is Sharding in MongoDB? Explain.
 Sharding is a method for storing data across multiple machines. MongoDB uses sharding to support deployments with very large data sets and high throughput operations.
 
