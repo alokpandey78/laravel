@@ -341,3 +341,5 @@ A storage engine is the part of a database that is responsible for managing how 
 
 ## Which are the two storage engines used by MongoDB?
 MongoDB uses MMAPv1 and WiredTiger.
+
+
