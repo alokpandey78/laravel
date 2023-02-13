@@ -160,7 +160,7 @@ db.post.aggregate([{$group : {_id : "$by", first_tutorial : {$first : "$likes"}}
 ## Last Gets the first document from the source documents according to the grouping.
 db.post.aggregate([{$group : {_id : "$by", first_tutorial : {$last : "$likes"}}}])
 -----------------------------------------------------------------------
-Interview Question Mongo DB
+Interview Question Mongo DB.  
 ---------------------------------------------------------------------
 ## What are the best features of Mongodb?
 Document-oriented
