@@ -334,6 +334,8 @@ Performance reasons
 
 
 
+
+
 ## Why MongoDB is not preferred over a 32-bit system?
 When running a 32-bit build of MongoDB, the total storage size for the server, including data and indexes, is 2 gigabytes. For this reason, do not deploy MongoDB to production on 32-bit machines.
 
