@@ -19,6 +19,9 @@ Q22: Why do we need Traits in Laravel?
 
 
 
+
+
+
 Mongo DB Crash Course
 ---------------------------------------------------------------------
 
