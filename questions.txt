@@ -74,6 +74,7 @@ db.post.insert([
    }
 ])
 
+
 ## drop collection
     db.COLLECTION_NAME.drop()
 
